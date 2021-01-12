@@ -43,7 +43,7 @@ switch($numero){
 		echo "<p style='color:green;'>Ola Fernando</p>";
 		break;
 	default:
-		echo "Los datos no me valen";
+		echo "Los datos no me valen para nada";
 		break;
 }
 
